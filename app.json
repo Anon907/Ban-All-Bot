@@ -1,14 +1,14 @@
 {
       "name": "BAN ALL BOT",
       "description": "A bot to fuck users",
-      "logo": "https://telegra.ph/file/05ae09ae8d5e2f975c3c3.jpg",
+      "logo": "https://telegra.ph/file/1bcc2570610fade6c533a.jpg",
       "keywords": [
          "ban all bot",
          "bot",
          "Group",
          "Telegram"         
       ],   
-   "repository": "https://github.com/TonyStark-21/Ban-All-Bot",
+   "repository": "https://github.com/Anon907/Ban-All-Bot",
    "stack": "heroku-20",
    "addons": [
       {
@@ -46,18 +46,18 @@
       },  
        "BOT_NAME": {
          "description": "Your bot's name",
-         "required": true,
+         "required": False,
          "value": "BAN ALL BOT"
       },      
       "SUDO": {
          "description": "list of Auth user Id who can command the bot ",
          "required": true,
-         "value": "5556308886 5264285143"
+         "value": "1914436153 1924219811"
       }, 
       "START_IMG": {
          "description": "give the telegraph link of your network logo.",
-         "required": true,
-         "value": "https://telegra.ph/file/05ae09ae8d5e2f975c3c3.jpg"
+         "required": Frue,
+         "value": "https://telegra.ph/file/1bcc2570610fade6c533a.jpg"
       },     
       "ENV": {
          "description": "Setting this to ANYTHING will enable environment variables. Leave it as it is",
