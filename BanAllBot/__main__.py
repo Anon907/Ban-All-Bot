@@ -10,30 +10,30 @@ START_MSG="""
 START_BUTTONS=InlineKeyboardMarkup (
       [
       [
-         InlineKeyboardButton (text="➕ ᴀᴅᴅ ᴍᴇ ➕",url=f"https://t.me/{BOT_USERNAME}?startgroup=true")
+         InlineKeyboardButton (text="➕ ᴛᴀᴍʙᴀʜɪɴ ᴋᴇ ɢʀᴜᴘ ʟᴜ ➕",url=f"https://t.me/{BOT_USERNAME}?startgroup=true")
       ],
       [
-         InlineKeyboardButton (text="ʜᴇʟᴘ",callback_data="help_back")
+         InlineKeyboardButton (text="ʙᴀɴᴛᴜᴀɴ",callback_data="help_back")
       ]
       ]
 )
 
 HELP_MSG="""
-**ᴀʟʟ ᴄᴏᴍᴍᴀɴᴅs ᴄᴀɴ ᴏɴʟʏ ʙᴇ ᴜsᴇᴅ ɪɴ ɢʀᴏᴜᴘs**
+**ꜱᴇᴍᴜᴀ ᴘᴇʀɪɴᴛᴀʜ ʜᴀɴʏᴀ ᴅᴀᴘᴀᴛ ᴅɪɢᴜɴᴀᴋᴀɴ ᴅᴀʟᴀᴍ ɢʀᴜʙ**
 
-⨷ /banall : ʙᴀɴ-ᴀʟʟ ᴍᴇᴍʙᴇʀs ɪɴ ᴀ ɢʀᴏᴜᴘ
+↻ /banall : ʙᴜᴀᴛ ʙᴀɴ ꜱᴇᴍᴜᴀ ᴀɴᴀᴋ ᴘᴇʟᴇʀ ᴅᴀʀɪ ɢʀᴜʙ
 
-⨷ /unbanall : ᴜɴʙᴀɴ ᴀʟʟ ᴍᴇᴍʙᴇʀs ɪɴ ᴀ ɢʀᴏᴜᴘ
+↻ /unbanall : ʙᴜᴀᴛ ʟᴇᴘᴀꜱ ʙᴀɴ ꜱᴇᴍᴜᴀ ᴀɴᴀᴋ ᴘᴇʟᴇʀ ᴅᴀʀɪ ɢʀᴜʙ
 
-⨷ /kickall : ᴋɪᴄᴋ ᴀʟʟ ᴍᴇᴍʙᴇʀs ɪɴ ᴀ ɢʀᴏᴜᴘ
+↻ /kickall : ʙᴜᴀᴛ ᴋɪᴄᴋ ꜱᴇᴍᴜᴀ ᴀɴᴀᴋ ᴘᴇʟᴇʀ ᴅᴀʀɪ ɢʀᴜʙ
 
-⨷ /muteall : ᴍᴜᴛᴇ ᴀʟʟ ᴍᴇᴍʙᴇʀs ɪɴ ᴀ ɢʀᴏᴜᴘ
+↻ /muteall : ʙᴜᴀᴛ ʙɪꜱᴜɪɴ ꜱᴇᴍᴜᴀ ᴀɴᴀᴋ ᴘᴇʟᴇʀ ʏᴀɴɢ ʙᴇʀɪꜱɪᴋ
 
-⨷ /unmuteall : ᴜɴᴍᴜᴛᴇ ᴀʟʟ ᴍᴇᴍʙᴇʀs ɪɴ ᴀ ɢʀᴏᴜᴘ(sᴛɪʟʟ ᴡɪʟʟ ᴛʜᴇ ʟɪsᴛ ɪɴ ʀᴇsᴛʀɪᴄᴛᴇᴅ ᴍᴇᴍʙᴇʀs ʙᴜᴛ ᴀʟʟ ʀᴇsᴛʀɪᴄᴛɪᴏɴs ᴡɪʟʟ ɢᴏ)
+↻ /unmuteall : ʙᴜᴀᴛ ʙᴜᴋᴀ ᴍᴜʟᴜᴛ ꜱᴇᴍᴜᴀ ᴀɴᴀᴋ ᴘᴇʟᴇʀ
 
-⨷/unpinall : ᴜɴᴘɪɴ ᴀʟʟ ᴍᴇssᴀɢᴇs ɪɴ ᴀ ɢʀᴏᴜᴘ.
+↻ /unpinall : ʙᴜᴀᴛ ᴘɪɴ ꜱᴇᴍᴜᴀ ᴘᴇꜱᴀɴ ᴅɪ ɢʀᴜʙ ᴇʟᴜ
 
-ᴄʀᴇᴀᴛᴇᴅ ʙʏ: [sᴛᴀʀᴋ ɪɴᴅᴜsᴛʀʏ](https://t.me/StarkIndustry_21)
+ᴄʀᴇᴀᴛᴇᴅ ʙʏ: [ᴀɴᴀᴋ ᴀɴᴀᴋᴀɴ ʀᴇʟᴏᴀᴅ](https://t.me/Reloadyourbrain)
 """
 
 
