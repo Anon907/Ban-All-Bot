@@ -12,7 +12,6 @@ async def mute_all(_,msg):
         async for member in app.get_chat_members(chat_id):       
             try:
                     await app.restrict_chat_member(chat_id, member.user.id,ChatPermissions(can_send_messages=False))
-                    await msg.reply_text(f"ᴍᴜᴛɪɴɢ ᴀʟʟ ᴍᴇᴍʙᴇʀs {member.user.mention}")
                                         
             except Exception:
                 pass
