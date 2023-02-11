@@ -46,7 +46,7 @@
       },  
        "BOT_NAME": {
          "description": "Your bot's name",
-         "required": False,
+         "required": false,
          "value": "BAN ALL BOT"
       },      
       "SUDO": {
@@ -56,7 +56,7 @@
       }, 
       "START_IMG": {
          "description": "give the telegraph link of your network logo.",
-         "required": Frue,
+         "required": false,
          "value": "https://telegra.ph/file/1bcc2570610fade6c533a.jpg"
       },     
       "ENV": {
